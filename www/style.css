@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  margin: auto;
+  padding: auto;
+  background-color: #D4EFEE;
+  height: 100vh;
+}
+
+
+h1 {
+margin: 0;
+padding: 0;
+}
+table {
+  margin: auto;
+  padding: auto;
+  border-collapse: collapse;
+  vertical-align: top;
+}
+tr{
+  vertical-align: top;
+}
+td {
+  width: 50px;
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+  text-align: left;
+  padding: 5px;
+  vertical-align: top;
+}
+
+#head{
+  background-color: #58ACFA;
+  width: 100%;
+  height: 7%;
+}
+
+.nazev {
+  color: red;
+  font-weight: 900;
+}
+
+#content{
+  overflow: auto;
+  height: 93%;
+  margin-bottom: 0;
+}
